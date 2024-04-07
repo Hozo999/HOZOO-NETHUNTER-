@@ -4,12 +4,10 @@
 
 #script ini untuk kalian yang menginstall nethunter ori !
 #karena nethunter ori banyak bugnya jadi saya bantu kalian
-#dengan script ini
-#Dan jangan lupa SUBSCRIBE GALIRUS PROJECTS
 
 	git stash
 	git pull origin main
-	git add HOZOOO.Sh
+	git add hozoo.Sh
 
 #kondisi jika file di kali ada
 #codingan
